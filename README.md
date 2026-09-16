@@ -13,16 +13,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge"/>
+  <a href="https://github.com/Guddu-Kumar123">
+    <img src="https://komarev.com/ghpvc/?username=Guddu-Kumar123&style=for-the-badge"/>
   </a>
 
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge"/>
+  <a href="https://github.com/Guddu-Kumar123?tab=followers">
+    <img src="https://img.shields.io/github/followers/Guddu-Kumar123?style=for-the-badge"/>
   </a>
 
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge"/>
+  <a href="https://github.com/Guddu-Kumar123">
+    <img src="https://img.shields.io/github/stars/Guddu-Kumar123?style=for-the-badge"/>
   </a>
 </p>
 
@@ -119,18 +119,3 @@
 ✓ JDBC
 ✓ DSA
 
-# 📈 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
-</p>
